@@ -44,5 +44,19 @@ SpriteKit是一个功能强大的基于2D精灵的框架，提供了很多许多
 ## 游戏效果
 ### 菜单界面
 ![](ResaultImage/1.png)
+### 用户注册
+![](ResaultImage/2.png)
+### 用户登录
+![](ResaultImage/3.png)
+### 选择模式
+![](ResaultImage/4.png)
+### 选择关卡
+![](ResaultImage/5.png)
+### 游戏进行
+![](ResaultImage/6.png)
+### 游戏结束
+![](ResaultImage/7.png)
+### 游戏获胜
+![](ResaultImage/8.png)
 
 
