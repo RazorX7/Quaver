@@ -42,6 +42,8 @@ SpriteKit是一个功能强大的基于2D精灵的框架，提供了很多许多
 ### UI相关：GameViewController，SoundStageViewController，TouchViewController， TouchStageViewController， ModeViewController， MenuViewController等。
 
 ## 游戏效果
+### 游戏启动
+![](ResaultImage/0.png)
 ### 菜单界面
 ![](ResaultImage/1.png)
 ### 用户注册
